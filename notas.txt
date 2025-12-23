@@ -1,4 +1,7 @@
 Hola estoy haciendo una practica
 y me esta gustando mucho
 estoy modificando el archivo
-y ahora tiene 4 lineas
+y ahora tiene 4 líneas
+
+Vuelvo a actualizar el fichero
+a ver como lo voy a hacer yo solo
